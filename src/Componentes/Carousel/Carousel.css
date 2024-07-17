@@ -1,0 +1,7 @@
+
+
+    .slick-prev:before,
+    .slick-next:before{
+        font-size: 1.8rem;
+        color: #f00567;
+    }

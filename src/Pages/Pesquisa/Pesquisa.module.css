@@ -1,0 +1,15 @@
+
+
+.pesquisa{
+    padding-top: 96px;
+    display: flex;
+    flex-direction: column;
+}
+
+.pesquisa h1{
+    text-align: center;
+    color: #f00;
+    font-size: 2rem;
+    text-transform: uppercase;
+    margin-bottom: 2%;
+}

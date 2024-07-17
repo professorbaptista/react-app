@@ -1,0 +1,17 @@
+
+
+.favorites{
+    padding-block: 96px;
+}
+
+.favorites h1{
+    text-align: center;
+    color: #f00560;
+    font-size: 2rem;
+    margin-block: 1.5rem;
+}
+
+.favorites p{
+    text-align: center;
+    color: #fff;
+}

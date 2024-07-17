@@ -1,0 +1,20 @@
+
+
+.container{
+    min-width: 280px;
+    max-width: 1150px;
+    margin: auto 0;
+}
+
+.container input{
+    padding: 16px;
+    color: #f0f;
+    width: 90%;
+    margin-left: 5%;
+    border: none;
+    outline: none;
+    margin-top: 10px;
+    margin-bottom: 12px;
+    font-size: 1.8rem;
+    border-radius: 18px;
+}

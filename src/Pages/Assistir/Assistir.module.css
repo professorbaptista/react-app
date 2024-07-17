@@ -1,0 +1,13 @@
+
+.assistir{
+    padding-top: 80px;
+}
+.assistir h1{
+    text-align: center;
+    color: #fff;
+    font-size: 2rem;
+}
+
+.assistir iframe{
+    margin-left: 18%;
+}

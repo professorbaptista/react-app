@@ -1,0 +1,22 @@
+
+
+.footer{
+    width: 100vw;
+    height: 80px;
+    background-color: #000000;
+    border-top: 4px solid #f44356;
+    /* position: fixed; */
+    padding-bottom: 1.6rem;
+}
+
+.footer > p{
+    text-align: center;
+    color: #fff;
+    font-size: 1.2rem;
+}
+
+.footer > p > span{
+    font-size: 2rem;
+    color: #f38;
+    text-shadow: 2px 4px 2px #f00;
+}

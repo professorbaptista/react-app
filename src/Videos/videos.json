@@ -1,0 +1,455 @@
+
+[
+    {
+       "id": "lWA2pjMjpBs",
+
+       "titulo": "Diamonds",
+
+       "cover": "https://img.youtube.com/vi/lWA2pjMjpBs/sddefault.jpg",
+
+       "url": "https://youtu.be/lWA2pjMjpBs?si=ykCBBuwfvgnhzBmH",
+       
+       "categoria": "american"
+    },
+
+    {
+       "id": "CvBfHwUxHIk",
+
+       "titulo": "umbrella",
+
+       "cover": "https://img.youtube.com/vi/CvBfHwUxHIk/sddefault.jpg",
+
+       "url": "https://youtu.be/CvBfHwUxHIk?si=bw5EVOJHItxFSiQW",
+
+       "categoria": "american"
+    },
+
+    {
+       "id": "yd8jh9QYfEs",
+
+       "titulo": "Don't Stop The Music",
+
+       "cover": "https://img.youtube.com/vi/yd8jh9QYfEs/sddefault.jpg",
+
+       "url": "https://youtu.be/yd8jh9QYfEs?si=zMP5bdvsK49EyAGU",
+
+       "categoria": "american"
+    },
+
+    {
+       "id": "tg00YEETFzg",
+
+       "titulo": "We Found Love",
+
+       "cover": "https://img.youtube.com/vi/tg00YEETFzg/sddefault.jpg",
+
+       "url": "https://youtu.be/tg00YEETFzg?si=p8J5Jbmk7fl51uin",
+
+       "categoria": "american"
+    },
+
+    {
+       "id": "HBxt_v0WF6Y",
+
+       "titulo": "Where have you been",
+
+       "cover": "https://img.youtube.com/vi/HBxt_v0WF6Y/sddefault.jpg",
+
+       "url": "https://youtu.be/HBxt_v0WF6Y?si=0NUnLP6FfxgMBlQb",
+
+       "categoria": "american"
+    },
+    {
+       "id": "8gyLR4NfMiI",
+
+       "titulo": "Look at Me Now",
+
+       "cover": "https://img.youtube.com/vi/8gyLR4NfMiI/sddefault.jpg",
+
+       "url": "https://youtu.be/8gyLR4NfMiI?si=nKMpdNW50iUBOF4w",
+
+       "categoria": "gospel"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "gospel"
+    },
+    {
+       "id": "lWA2pjMjpBs",
+
+       "titulo": "Diamonds",
+
+       "cover": "https://img.youtube.com/vi/lWA2pjMjpBs/sddefault.jpg",
+
+       "url": "https://youtu.be/lWA2pjMjpBs?si=ykCBBuwfvgnhzBmH",
+       
+       "categoria": "gospel"
+    },
+
+    {
+       "id": "CvBfHwUxHIk",
+
+       "titulo": "umbrella",
+
+       "cover": "https://img.youtube.com/vi/CvBfHwUxHIk/sddefault.jpg",
+
+       "url": "https://youtu.be/CvBfHwUxHIk?si=bw5EVOJHItxFSiQW",
+
+       "categoria": "gospel"
+    },
+
+    {
+       "id": "yd8jh9QYfEs",
+
+       "titulo": "Don't Stop The Music",
+
+       "cover": "https://img.youtube.com/vi/yd8jh9QYfEs/sddefault.jpg",
+
+       "url": "https://youtu.be/yd8jh9QYfEs?si=zMP5bdvsK49EyAGU",
+
+       "categoria": "gospel"
+    },
+
+    {
+       "id": "tg00YEETFzg",
+
+       "titulo": "We Found Love",
+
+       "cover": "https://img.youtube.com/vi/tg00YEETFzg/sddefault.jpg",
+
+       "url": "https://youtu.be/tg00YEETFzg?si=p8J5Jbmk7fl51uin",
+
+       "categoria": "house"
+    },
+
+    {
+       "id": "HBxt_v0WF6Y",
+
+       "titulo": "Where have you been",
+
+       "cover": "https://img.youtube.com/vi/HBxt_v0WF6Y/sddefault.jpg",
+
+       "url": "https://youtu.be/HBxt_v0WF6Y?si=0NUnLP6FfxgMBlQb",
+
+       "categoria": "house"
+    },
+    {
+       "id": "8gyLR4NfMiI",
+
+       "titulo": "Look at Me Now",
+
+       "cover": "https://img.youtube.com/vi/8gyLR4NfMiI/sddefault.jpg",
+
+       "url": "https://youtu.be/8gyLR4NfMiI?si=nKMpdNW50iUBOF4w",
+
+       "categoria": "house"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "house"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "house"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "kizomba"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "kizomba"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "kizomba"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "kizomba"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "kizomba"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "semba"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "samba"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "samba"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "samba"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "samba"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "sloy"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "sloy"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "sloy"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "sloy"
+    },
+    {
+       "id": "Tff2oE31Mlw",
+
+       "autor": "Chris Brown Vs Nick Minaj",
+
+       "titulo": "Love More (Explicit) ft. Nicki Minaj",
+
+       "cover": "https://img.youtube.com/vi/Tff2oE31Mlw/sddefault.jpg",
+
+       "url": "https://youtu.be/Tff2oE31Mlw?si=jtU2VSiPi42pR-u7",
+
+       "categoria": "sloy"
+    },
+    {
+       "id": "pQZysElW9o4",
+
+       "autor": "Nelly",
+
+       "titulo": "Dilemma",
+
+       "cover": "https://img.youtube.com/vi/pQZysElW9o4/sddefault.jpg",
+
+       "url": "https://youtu.be/pQZysElW9o4?si=vIAy_dJkLvME1jpt",
+
+       "categoria": "sloy"
+    },
+    {
+       "id": "pQZysElW9o4",
+
+       "autor": "Nelly",
+
+       "titulo": "Dilemma",
+
+       "cover": "https://img.youtube.com/vi/pQZysElW9o4/sddefault.jpg",
+
+       "url": "https://youtu.be/pQZysElW9o4?si=vIAy_dJkLvME1jpt",
+
+       "categoria": "sloy"
+    },
+    {
+       "id": "pQZysElW9o4",
+
+       "autor": "Nelly",
+
+       "titulo": "Dilemma",
+
+       "cover": "https://img.youtube.com/vi/pQZysElW9o4/sddefault.jpg",
+
+       "url": "https://youtu.be/pQZysElW9o4?si=vIAy_dJkLvME1jpt",
+
+       "categoria": "sloy"
+    },
+    {
+       "id": "pQZysElW9o4",
+
+       "autor": "Nelly",
+
+       "titulo": "Dilemma",
+
+       "cover": "https://img.youtube.com/vi/pQZysElW9o4/sddefault.jpg",
+
+       "url": "https://youtu.be/pQZysElW9o4?si=vIAy_dJkLvME1jpt",
+
+       "categoria": "sloy"
+    },
+    {
+       "id": "pQZysElW9o4",
+
+       "autor": "Nelly",
+
+       "titulo": "Dilemma",
+
+       "cover": "https://img.youtube.com/vi/pQZysElW9o4/sddefault.jpg",
+
+       "url": "https://youtu.be/pQZysElW9o4?si=vIAy_dJkLvME1jpt",
+
+       "categoria": "sloy"
+    },
+    {
+       "id": "pQZysElW9o4",
+
+       "autor": "Nelly",
+
+       "titulo": "Dilemma",
+
+       "cover": "https://img.youtube.com/vi/pQZysElW9o4/sddefault.jpg",
+
+       "url": "https://youtu.be/pQZysElW9o4?si=vIAy_dJkLvME1jpt",
+
+       "categoria": "sloy"
+    }
+]

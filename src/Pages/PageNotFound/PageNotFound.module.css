@@ -1,0 +1,16 @@
+
+.pageNotFound{
+    padding-top: 80px;
+}
+.pageNotFound h1{
+    text-align: center;
+    color: #ff0;
+    font-size: 2rem;
+    padding-block: 1.5rem;
+}
+
+.pageNotFound img{
+    width: 620px;
+    height: 350px;
+    margin-left: 20%;
+}

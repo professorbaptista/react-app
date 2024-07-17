@@ -1,0 +1,45 @@
+
+
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+
+
+.capa{
+    border-radius: 8px;
+    width: 225px;
+    /* height: 150px; */
+}
+
+.capa:hover{
+    transform: scale(1.15);
+    border-radius: 12px;
+    box-shadow: 0 0 10px #222;
+}
+
+.icon{
+    background-color: #00000050;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+}
+
+.icon:hover{
+    background-color: #000000;
+    cursor: pointer;
+}
+
+.card figure img{
+    width: 25px;
+    height: 25px;
+    
+}
+
